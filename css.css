@@ -117,6 +117,10 @@ table {
 	.item{
 		flex: 50%;
 	}
+	.img{
+	height: 50%;
+	width: 50%;
+	}
 }
 @media(max-width: 400px){
 	#trai {
@@ -130,5 +134,9 @@ table {
 	}
 	.item{
 		flex: 50%;
+	}
+	.img{
+	height: 50%;
+	width: 50%;
 	}
 }
