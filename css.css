@@ -79,9 +79,9 @@ table {
 	text-align: center;
 	flex: 33%;
 }
-.img{
+img{
 	height: 50%;
-	width: 50%;
+	width: 100%;
 }
 #caithung1{
 	display: flex;
