@@ -135,4 +135,7 @@ table {
 	.item{
 		flex: 50%;
 	}
+	#menu_text {
+		width: 100%;
+	}
 }
